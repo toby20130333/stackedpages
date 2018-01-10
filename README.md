@@ -1,8 +1,6 @@
 # stackedpages
 Sample APP - Qt 5.7+ - Android iOS PC and other platforms
 
-[AUTHOR ( ekke )](AUTHOR.md)
-
 This is not a real-life app - this app only demonstrates the use of Material style and new Qt Quick Controls 2
 
 
